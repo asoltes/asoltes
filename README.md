@@ -1,3 +1,7 @@
+[![Drew's GitHub stats](https://gh-stats-card.cyclic.app/api/asoltes)](https://github.com/asoltes)
+
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=asoltes&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## &#x1f4c8; GitHub Stats
